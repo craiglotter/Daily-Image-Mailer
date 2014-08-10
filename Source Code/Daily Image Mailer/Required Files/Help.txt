@@ -1,0 +1,9 @@
+To use this program correctly, you will need to ensure that you at least specify both an email address and an accessible SMTP email server. (Note: this base version has been configured for the UCT network to use OBE1.com.uct.ac.za and the sender email address has therefore been hardcoded to Unattended-mailbox@obe1.com.uct.ac.za)
+
+To get the most out of the application, you'll need to place the attachment you wish to send out in the generated Attachments folder in the program startup directory. (You'll see the attachment path given on the main program window)
+
+You can set up to two scheduled times which the program will work against by making use of the date/time picker controls on the main window. Alternatively, you can choose to use the interval scheduler that will allow you to set an interval (in minutes) from the base time (second time stamp on the right).
+
+Minimising the application will simply hide it, therefore allowing it to run in the background.
+
+-- Last Updated: 16/08/2007 --
